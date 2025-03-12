@@ -21,9 +21,9 @@ public class cal {
         int num2=obj.sub(20,10);
         int num3=obj.multi(23,5);
         int num4=obj.divid(50, 5);
-        System.out.println(num1);
-        System.out.println(num2);
-        System.out.println(num3);
-        System.out.println(num4);
+        System.out.println("add two numbers:"+num1);
+        System.out.println("sub two numbers:"+num2);
+        System.out.println("multi two nubers:"+num3);
+        System.out.println("divid the nubers:"+num4);
     }
 }
