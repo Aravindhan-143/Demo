@@ -1,10 +1,12 @@
 public class file4{
     public static void main(String[] args) {
         boolean a=true;
+        boolean b= true;
         if (a=true) {
             System.out.println("the a value is true.");
-        }else{
-            System.out.println("the a value is false.");
+        }
+        if(b=true){
+            System.out.println("the b value is true.");
         }
     }
 }
