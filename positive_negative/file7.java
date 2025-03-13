@@ -3,7 +3,12 @@ public class file7{
         int a=10;
         if(a>0){
             System.out.println("this number is positive.");
-        }else{
+            
+        }
+        else if(a==0){
+            System.out.println("this number nuteral");
+        }
+        else{
             System.out.println("this number is negative.");
         }
     }
